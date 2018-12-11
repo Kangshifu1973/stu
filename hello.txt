@@ -4,6 +4,9 @@ hello git~change 01
 hello git!
 github change!
 >>>>>>> 78c73e01da48d23ceae0ae62afe38ac9640d1e4e
+<<<<<<< HEAD
 
 
 sdjasdkljsdfjsdfjklsdf
+=======
+>>>>>>> 619de31aade4bac824a5285451206a11fb36cd52
